@@ -23,10 +23,12 @@ ob1 = A(2)
 ob2 = A(3)
 print(ob1<ob2)
 ```
-###OUTPUT:
+OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/dae03d17-1004-424e-a179-ef62fd2681bd)
 
 
 
-###RESULT: 
+
+RESULT: 
 Thus, the program has been successfully executed.
