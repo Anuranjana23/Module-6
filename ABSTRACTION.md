@@ -1,6 +1,6 @@
-# EX: 6.3 ABSTRACT CLASS METHOD
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+# EX: 6(c) ABSTRACT CLASS METHOD
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM: To Create the abstract method calculate_area which is of the abstract class 'Shape'
 
