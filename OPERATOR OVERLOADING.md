@@ -3,7 +3,7 @@
 - **Registration Number:** 212222050039
 
 ### AIM: write a python program to overload less than operator
-###ALGORITHM:
+ALGORITHM:
 Step1 :create class A and def init	 
 
 Step2: def it	with a condition if self.a < o.a 
@@ -28,4 +28,5 @@ print(ob1<ob2)
 
 
 
-###RESULT: Thus, the program has been successfully executed.
+###RESULT: 
+Thus, the program has been successfully executed.
