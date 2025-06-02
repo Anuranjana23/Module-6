@@ -5,6 +5,7 @@
 ### AIM: To Implement Encapsulation using private members –of a class rectangle with private variables length,width.
 # ALGORITHM: 
 Step1: put class function to define the function using self 
+
 Step2: By using the function to find the area of the rectangle Step3: Execute the program.
 
 # PROGRAM:
