@@ -1,7 +1,7 @@
-# EXP.No: 6.4     ENCAPSULATION
+# EXP.No: 6(d)  ENCAPSULATION
 
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM: To Implement Encapsulation using private members –of a class rectangle with private variables length,width.
 # ALGORITHM: 
 Step1: put class function to define the function using self 
