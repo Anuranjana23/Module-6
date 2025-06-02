@@ -1,6 +1,6 @@
-# EXP.No: 6.2 OPERATOR OVERLOADING
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+# EXP.No: 6(b) OPERATOR OVERLOADING
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM: write a python program to overload less than operator
 ALGORITHM:
